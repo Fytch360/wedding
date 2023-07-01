@@ -1,15 +1,16 @@
 *{
     font-family: 'Quicksand', sans-serif;
     font-size: 16px;
-    color: #222;
+    color: #51688F;
 }
 html, body{
     margin: 0;
     height: 100vh;
     text-align: center;
+    background-color: #E1EAEF;
 }
 .header{
-    background-image: url(./img/hero.jpeg);
+    background-image: url(./img/IMG_7123.png);
     background-repeat: no-repeat;
     background-position: 50% 60%;
     background-attachment: scroll;
