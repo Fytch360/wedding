@@ -10,7 +10,7 @@ html, body{
     background-color: #E1EAEF;
 }
 .header{
-    background-image: url(./img/IMG_7123.png);
+    background-image: url(./img/us.jpg);
     background-repeat: no-repeat;
     background-position: 50% 60%;
     background-attachment: scroll;
@@ -69,7 +69,7 @@ html, body{
     margin-top: 2em;
 }
 .details{
-    margin: 0 auto 8em;
+    margin: 0 auto 4em;
 }
 .details-heading{
     font-weight: bold;
